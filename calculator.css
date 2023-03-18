@@ -1,0 +1,26 @@
+.solid{
+    padding: 15px;
+    margin: 7px;
+    border-radius: 50%;
+    background-color: black;
+    color: azure;
+    font-size: 20px;
+}
+.display{
+    width: 98%;
+    height: 60px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.container{
+    border: 4px solid black;
+    display: inline-block;
+    box-shadow: 10px;
+    border-radius: 15px;
+    margin-left:10%;
+    background-color: chartreuse;
+
+}
+#button-color{
+    background-color: darkgoldenrod
+}
